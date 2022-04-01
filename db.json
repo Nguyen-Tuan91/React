@@ -1,0 +1,197 @@
+{
+  "staffs": [
+    {
+      "id": 0,
+      "name": "Nguyễn Văn An",
+      "doB": "1993-01-01T08:59:00.000Z",
+      "salaryScale": 1.1,
+      "startDate": "2015-04-30T08:59:00.000Z",
+      "departmentId": "Dept02",
+      "annualLeave": "4",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "salary": 4300000
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn C",
+      "doB": "2001-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept04",
+      "annualLeave": 4,
+      "overTime": 5,
+      "image": "/assets/images/alberto.png",
+      "salary": 4000000
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Văn D",
+      "doB": "2002-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 6,
+      "overTime": 7,
+      "image": "/assets/images/alberto.png",
+      "salary": 4400000
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Văn E",
+      "doB": "1999-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 8,
+      "overTime": 1,
+      "image": "/assets/images/alberto.png",
+      "salary": 3200000
+    },
+    {
+      "id": 5,
+      "name": "Nguyễn Văn F",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png",
+      "salary": 5000000
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Văn G",
+      "doB": "2003-01-05T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2017-04-28T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png",
+      "salary": 5000000
+    },
+    {
+      "id": 7,
+      "name": "Nguyễn Văn H",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png",
+      "salary": 5000000
+    },
+    {
+      "name": "Nguyễn Van I",
+      "doB": "2022-02-28",
+      "salaryScale": "5",
+      "startDate": "2022-04-09",
+      "departmentId": "Dept01",
+      "annualLeave": "5",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "id": 8,
+      "salary": 16000000
+    },
+    {
+      "name": "Nguyễn Văn J",
+      "doB": "2022-03-01",
+      "salaryScale": "5",
+      "startDate": "2022-04-02",
+      "departmentId": "Dept01",
+      "annualLeave": "5",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "id": 9,
+      "salary": 16000000
+    },
+    {
+      "name": "Nguyễn Văn K",
+      "doB": "2022-03-08",
+      "salaryScale": "5",
+      "startDate": "2022-03-24",
+      "departmentId": "Dept02",
+      "annualLeave": "5",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "id": 10,
+      "salary": 16000000
+    },
+    {
+      "name": "Nguyễn Văn L",
+      "doB": "2022-03-01",
+      "salaryScale": "5",
+      "startDate": "2022-03-26",
+      "departmentId": "Dept02",
+      "annualLeave": "5",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "id": 11,
+      "salary": 16000000
+    },
+    {
+      "name": "Nguyễn Văn M",
+      "doB": "2022-03-01",
+      "salaryScale": "5",
+      "startDate": "2022-03-26",
+      "departmentId": "Dept04",
+      "annualLeave": "5",
+      "overTime": "5",
+      "image": "/assets/images/alberto.png",
+      "id": 12,
+      "salary": 16000000
+    },
+    {
+      "name": "thietlaptaikhoan",
+      "doB": "2022-03-10",
+      "salaryScale": "3",
+      "startDate": "2022-03-03",
+      "annualLeave": "3",
+      "overTime": "3",
+      "image": "/assets/images/alberto.png",
+      "id": 13,
+      "salary": 9600000
+    },
+    {
+      "name": "thietlaptaikhoan",
+      "doB": "2022-03-03",
+      "salaryScale": "3",
+      "startDate": "2022-03-09",
+      "annualLeave": "3",
+      "overTime": "3",
+      "image": "/assets/images/alberto.png",
+      "id": 14,
+      "salary": 9600000
+    }
+  ],
+  "departments": [
+    {
+      "id": "Dept01",
+      "name": "Sale",
+      "numberOfStaff": 2
+    },
+    {
+      "id": "Dept02",
+      "name": "HR",
+      "numberOfStaff": 3
+    },
+    {
+      "id": "Dept03",
+      "name": "Marketing",
+      "numberOfStaff": 3
+    },
+    {
+      "id": "Dept04",
+      "name": "IT",
+      "numberOfStaff": 2
+    },
+    {
+      "id": "Dept05",
+      "name": "Finance",
+      "numberOfStaff": 2
+    }
+  ]
+}
